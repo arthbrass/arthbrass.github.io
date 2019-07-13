@@ -27,6 +27,9 @@ body p {
 .image-samples img {
     width: 100%;
 }
+.signature {
+    width: 30%;
+}
 
 .test-image-container {
     display: flex;
