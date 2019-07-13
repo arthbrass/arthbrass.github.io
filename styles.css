@@ -30,6 +30,7 @@ body p {
 
 .test-image-container {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .test-image-container img {
