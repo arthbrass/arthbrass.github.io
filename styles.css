@@ -27,3 +27,7 @@ body p {
 .image-samples img {
     width: 100%;
 }
+
+.test-image-container {
+    display: flex;
+}
