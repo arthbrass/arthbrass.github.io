@@ -3,7 +3,7 @@ body {
 }
 body p {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .main-container {
     display: flex;
@@ -16,6 +16,7 @@ body p {
 }
 .subheader {
     color: #818181;
+    display: flex;
     font-size: 24px;
     font-style: italic;
     font-weight: bold;
